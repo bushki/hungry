@@ -3,7 +3,8 @@
 Sample Android Java app.
 
 ## Screenshots
-![Alt text](/screenshots/Screenshot_1526865263.png?raw=true "Hungry")
+![Alt text](/screenshots/Before.png?raw=true "Before")
+![Alt text](/screenshots/After.png?raw=true "After")
 
 
 ### Prerequisites
