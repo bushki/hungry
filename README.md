@@ -2,6 +2,9 @@
 
 One Paragraph of project description goes here
 
+## Screenshots
+![Alt text](/screenshots/Screenshot_1526865263.png?raw=true "Hungry")
+
 
 ### Prerequisites
 
