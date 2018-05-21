@@ -3,8 +3,7 @@
 Sample Android Java app.
 
 ## Screenshots
-![Alt text](/screenshots/Before.png?raw=true "Before")
-![Alt text](/screenshots/After.png?raw=true "After")
+<img src="https://github.com/bushki/hungry/blob/master/screenshots/Before.png" style=" width:50px ; height:50px " />
 
 
 ### Prerequisites
