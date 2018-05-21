@@ -3,7 +3,8 @@
 Sample Android Java app.
 
 ## Screenshots
-<img src="https://github.com/bushki/hungry/blob/master/screenshots/Before.png?raw=false" style="width:50px;height:50px" />
+
+<img src="https://github.com/bushki/hungry/blob/master/screenshots/Before.png?raw=false" style="width:192px;height:320px"/>
 
 
 ### Prerequisites
