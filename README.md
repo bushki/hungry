@@ -1,6 +1,9 @@
 # Hungry (Android App Example)
 
-One Paragraph of project description goes here
+Sample Android Java app.
+
+## Screenshots
+![Alt text](/screenshots/Screenshot_1526865263.png?raw=true "Hungry")
 
 
 ### Prerequisites
