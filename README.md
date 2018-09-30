@@ -1,4 +1,4 @@
-# Hungry (Android App Example)
+# Hungry (Android Sample App)
 
 Sample Android Java app.
 
