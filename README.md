@@ -12,9 +12,6 @@ Sample Android Java app.
 Android Studio
 Android SDK
 
-## Authors
-
-Bushki
 
 ## License
 
